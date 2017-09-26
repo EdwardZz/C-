@@ -1,0 +1,5 @@
+﻿  源.cpp
+d:\c++\win32project1\win32project1\源.cpp(32): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\c++\win32project1\win32project1\源.cpp(37): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\c++\win32project1\win32project1\源.cpp(40): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Win32Project1.vcxproj -> D:\C++\Win32Project1\Debug\Win32Project1.exe

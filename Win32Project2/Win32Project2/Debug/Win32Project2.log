@@ -1,0 +1,3 @@
+﻿  源.cpp
+d:\c++\win32project2\win32project2\源.cpp(65): warning C4101: “rect”: 未引用的局部变量
+  Win32Project2.vcxproj -> D:\C++\Win32Project2\Debug\Win32Project2.exe

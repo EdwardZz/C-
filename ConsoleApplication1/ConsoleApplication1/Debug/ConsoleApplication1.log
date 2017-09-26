@@ -1,0 +1,5 @@
+﻿  源.cpp
+d:\c++\consoleapplication1\consoleapplication1\源.cpp(171): warning C4018: “<”: 有符号/无符号不匹配
+d:\c++\consoleapplication1\consoleapplication1\源.cpp(193): warning C4018: “<”: 有符号/无符号不匹配
+d:\c++\consoleapplication1\consoleapplication1\源.cpp(212): warning C4715: “write_cour_score”: 不是所有的控件路径都返回值
+  ConsoleApplication1.vcxproj -> D:\C++\ConsoleApplication1\Debug\ConsoleApplication1.exe
